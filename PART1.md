@@ -2,7 +2,7 @@
 
 ## Video Demo
 
-This is the YouTube link to our [Part 1 Assignment](https://youtu.be/VxXwBM6wG3k).
+This is the YouTube link to our [Part 1 Assignment](https://youtu.be/mMaTuuGhBTs).
 
 ## Minimum Requirements
 
